@@ -107,9 +107,9 @@ Uploads a product image → generates:
 ---
 
 ## 📫 Connect With Me
-📧 Email: *add your email here*  
-🔗 LinkedIn: *add your LinkedIn link here*  
-🌐 Portfolio: *(I can build one for you if you want)*
+📧 Email: yashsharma.td@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/yash-sharma-2ab129273/
+🌐 Portfolio: https://profile-np1z.onrender.com/
 
 ---
 
