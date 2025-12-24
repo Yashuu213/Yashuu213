@@ -27,13 +27,13 @@
 `OpenCV` • `NLP` • `LangChain` • `LLMs` • `HuggingFace`
 
 ### 🌐 Full Stack Development
-`React.js` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `JWT Auth`
+`React.js` • `MongoDB` • `REST APIs` • 
 
 ### 🎨 Frontend & UI
-`Tailwind CSS` • `HTML5` • `CSS3` • `JavaScript (ES6+)`
+`Tailwind CSS` • `HTML5` • `CSS3` • `JavaScript `
 
 ### ⚙ Tools & Platforms
-`Git` • `GitHub` • `Docker` • `VS Code` • `Postman` • `Render` • `Railway` • `Vercel`
+`Git` • `GitHub` • `Docker` • `VS Code` • `Render` • `Railway` • `Vercel`
 
 ---
 
