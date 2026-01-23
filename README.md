@@ -97,19 +97,10 @@ Uploads a product image → generates:
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma&theme=tokyonight" alt="GitHub Streak" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YashSharma&show_icons=true&theme=tokyonight" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 📧 Email: yashsharma.td@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/yash-sharma-2ab129273/
-🌐 Portfolio: https://profile-np1z.onrender.com/
+🌐 Portfolio: profile-pink-ten.vercel.app
 
 ---
 
