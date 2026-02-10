@@ -1,18 +1,18 @@
-<!-- 🔥 HERO SECTION -->
+<!-- ===================== HERO ZONE ===================== -->
 
-<h1 align="center">🚀 Yash Sharma</h1>
+<h1 align="center">🧠⚡ Yash Sharma ⚡🧠</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%7C+LLM+Builder;Full+Stack+Developer;Multi-Modal+AI+Creator;Building+Real+World+AI+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=800&color=F7C843&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Creator+of+TUUNA+AI+Agent;LLM+%26+Multi-Modal+AI+Builder;Full+Stack+Developer;I+Build+AI+That+Actually+Works" />
 </p>
 
 <p align="center">
-  <b>AI/ML Engineer • Generative AI • Full Stack Developer</b>
+  <b>AI/ML Engineer • Generative AI • Full Stack Developer • Data Science Specialist</b>
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE (Data Science) @ ITM Vocational University • CGPA: 9.6 <br/>
-  ⚡ Creating intelligent AI systems, modern web apps & production-ready ML solutions
+  🎓 B.Tech CSE (Data Science) @ ITM Vocational University • <b>CGPA: 9.6</b><br/>
+  🚀 Turning crazy AI ideas into real, usable products
 </p>
 
 <p align="center">
@@ -20,106 +20,133 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/yash-sharma-2ab129273/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://profile-pink-ten.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-# 🧠 WHO AM I
+<!-- ===================== WHO AM I ===================== -->
 
-```diff
-+ AI/ML Engineer building production-ready LLM apps
-+ Multi-Modal AI (Voice + Vision + Text)
-+ Full Stack Developer with deployment mindset
-+ Focused on solving real-world problems using AI
+## 🧬 WHO AM I (NO FILTER)
+
+```txt
+AI/ML Engineer who doesn't stop at models.
+I build agents, systems, products, and end-to-end AI pipelines.
+If it can think, talk, see, or automate — I’ll build it.
 ```
 
-Currently working on:
-
-* 🏥 Healthcare AI Assistant
-* 🔐 GovSecAI (Government Security Platform)
-* 🤖 Advanced Voice + Vision AI Systems
+* 🤖 Focused on **LLMs, Generative AI & Agent-based systems**
+* 🎙️🖼️📄 Building **Multi-Modal AI** (Voice + Vision + Text)
+* 🌐 Full Stack Developer with **deployment + scalability mindset**
+* ⚡ Obsessed with **real-world usable AI**, not demo-only projects
 
 ---
 
-# ⚙️ TECH ARSENAL
+<!-- ===================== TECH STACK ===================== -->
 
-### 🧠 AI / Machine Learning
+## ⚙️ TECH STACK (WEAPONS I USE)
+
+### 🧠 AI / ML / GEN-AI
 
 `Python` `TensorFlow` `PyTorch` `Scikit-Learn` `OpenCV`
-`LangChain` `LLMs` `NLP` `HuggingFace`
+`LLMs` `LangChain` `NLP` `HuggingFace` `Vision Transformers`
 
-### 🌐 Full Stack
+### 🌐 FULL STACK
 
 `React.js` `Node.js` `MongoDB` `FastAPI` `REST APIs`
 
-### 🎨 Frontend
+### 🎨 FRONTEND
 
-`HTML5` `CSS3` `JavaScript` `Tailwind CSS`
+`HTML` `CSS` `JavaScript` `Tailwind CSS`
 
-### ☁️ Dev Tools
+### ☁️ DEV & DEPLOY
 
-`Git` `Docker` `Vercel` `Railway` `Render` `VS Code`
-
----
-
-# 🚀 PROJECT UNIVERSE
-
-## 🏥 Healthcare AI Assistant
-
-AI-powered health platform with:
-
-* Symptom Analysis (ML)
-* Voice Chatbot (Speech ↔ AI)
-* Emergency Detection
-* Health Dashboard & History
-* Medicine Recommendation System
+`Git` `GitHub` `Docker` `Render` `Railway` `Vercel` `VS Code`
 
 ---
 
-## 🔐 GovSecAI – Government Security AI
+<!-- ===================== PROJECTS ===================== -->
 
-Large-scale final year system featuring:
+## 🚀 PROJECTS THAT DEFINE ME
 
-* AI Surveillance Analytics
-* Threat Detection
-* LLM Document Intelligence
-* Secure Cloud Architecture
+### 🐟🔥 TUUNA – AI AGENT (FLAGSHIP PROJECT)
 
----
+> **TUUNA is not a chatbot. It’s an AI Agent.**
 
-## 🤖 Multi-Modal Product Builder AI
+Capabilities:
 
-Upload image → AI generates:
+* 🎙️ Voice → AI → Voice conversations
+* 🖼️ Image understanding + reasoning
+* 🧠 Context-aware multi-turn memory
+* 🛠️ Tool usage & automation
+* 🌐 Modern chat UI (real assistant feel)
 
-* Product Title
-* SEO Content
-* Marketing Copy
-* Technical Specs
-* AI Banners
+**Tech:** LLMs • LangChain • Python • Voice APIs • Vision Models • Web UI
+🔗 *Repo coming soon*
 
 ---
 
-## 📊 Data Science Systems
+### 🏥 Healthcare AI Assistant
+
+A production-style healthcare system with:
+
+* Symptom analysis (ML)
+* Emergency detection logic
+* Voice-enabled AI doctor
+* User dashboard & health history
+* Medicine recommendation + warnings
+
+**Tech:** React • Node.js • MongoDB • LangChain • Python
+
+---
+
+### 🔐 GovSecAI – Government Security AI (Final Year Project)
+
+Large-scale system for:
+
+* AI surveillance analytics
+* Threat & anomaly detection
+* LLM-based document intelligence
+* Secure cloud & role-based access
+
+---
+
+### 🤖 Multi-Modal Product Builder AI
+
+Upload product image → AI generates:
+
+* Title & description
+* Amazon-style bullets
+* SEO keywords
+* Fake reviews
+* Tech specs & marketing banners
+
+---
+
+### 📊 Data Science & ML Systems
 
 Heart Disease Prediction • Face Recognition • Spam Detection • Air Quality ML
 
 ---
 
-# 🔥 CURRENT FOCUS
+<!-- ===================== CURRENT MODE ===================== -->
 
-* Generative AI Applications
-* Voice-based AI Assistants
-* Real-Time ML Dashboards
-* Full Stack AI Deployment
+## 🔥 CURRENT MODE
+
+* 🧠 Advanced **AI Agents (Auto + Semi-Auto)**
+* 🎙️ Voice-first AI systems
+* 🌐 Full Stack AI deployment (CI/CD)
+* 📊 Real-time ML dashboards
 
 ---
 
-# 📊 GITHUB ANALYTICS
+<!-- ===================== STATS ===================== -->
+
+## 📊 GITHUB STATS (PROOF OF WORK)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashuu213&show_icons=true&hide_border=true"/>
@@ -128,6 +155,9 @@ Heart Disease Prediction • Face Recognition • Spam Detection • Air Quality
 
 ---
 
-# ⚡ AI ENGINEER MINDSET
+<!-- ===================== END ===================== -->
 
-> I don’t just build models — I build **AI products that solve real problems.**
+## 🧠 FINAL THOUGHT
+
+> I don’t build AI for fun.
+> I build AI that **works, scales, and scares people a little.** 😈🤖
