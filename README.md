@@ -1,163 +1,116 @@
-<!-- ===================== HERO ZONE ===================== -->
-
-<h1 align="center">🧠⚡ Yash Sharma ⚡🧠</h1>
+<h1 align="center">Hi, I'm Yash Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=800&color=F7C843&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Creator+of+TUUNA+AI+Agent;LLM+%26+Multi-Modal+AI+Builder;Full+Stack+Developer;I+Build+AI+That+Actually+Works" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=4FC3F7&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Creator+of+TUUNA+AI+Agent;LLM+%26+Multi-Modal+AI+Builder;Full+Stack+Developer" />
 </p>
 
-<p align="center">
-  <b>AI/ML Engineer • Generative AI • Full Stack Developer • Data Science Specialist</b>
-</p>
+<h3 align="center">AI/ML Engineer • Full Stack Developer • Data Science Specialist</h3>
 
 <p align="center">
-  🎓 B.Tech CSE (Data Science) @ ITM Vocational University • <b>CGPA: 9.6</b><br/>
-  🚀 Turning crazy AI ideas into real, usable products
-</p>
-
-<p align="center">
-  <a href="mailto:yashsharma.td@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yash-sharma-2ab129273/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://profile-pink-ten.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge"/>
-  </a>
+Building intelligent AI systems, multi-modal assistants, and production-ready LLM applications.<br/>
+B.Tech CSE (Data Science) — ITM Vocational University • CGPA: 9.6
 </p>
 
 ---
 
-<!-- ===================== WHO AM I ===================== -->
+## About
 
-## 🧬 WHO AM I (NO FILTER)
+I focus on building real AI products — not just experiments.
+My work combines LLMs, vision models, voice interaction, and scalable full-stack architecture to create usable systems.
 
-```txt
-AI/ML Engineer who doesn't stop at models.
-I build agents, systems, products, and end-to-end AI pipelines.
-If it can think, talk, see, or automate — I’ll build it.
-```
+Current direction:
 
-* 🤖 Focused on **LLMs, Generative AI & Agent-based systems**
-* 🎙️🖼️📄 Building **Multi-Modal AI** (Voice + Vision + Text)
-* 🌐 Full Stack Developer with **deployment + scalability mindset**
-* ⚡ Obsessed with **real-world usable AI**, not demo-only projects
+* Multi-modal AI agents
+* Generative AI applications
+* Real-time AI dashboards
+* End-to-end deployment pipelines
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## TUUNA — AI Agent
 
-## ⚙️ TECH STACK (WEAPONS I USE)
+TUUNA is my flagship AI system designed as a modern conversational agent rather than a simple chatbot.
 
-### 🧠 AI / ML / GEN-AI
+Core capabilities:
 
-`Python` `TensorFlow` `PyTorch` `Scikit-Learn` `OpenCV`
-`LLMs` `LangChain` `NLP` `HuggingFace` `Vision Transformers`
+* Voice input and AI voice responses
+* Image understanding with contextual reasoning
+* Real-time conversational memory
+* Modern chat UI experience
+* Multi-modal interaction (Voice + Image + Text)
 
-### 🌐 FULL STACK
-
-`React.js` `Node.js` `MongoDB` `FastAPI` `REST APIs`
-
-### 🎨 FRONTEND
-
-`HTML` `CSS` `JavaScript` `Tailwind CSS`
-
-### ☁️ DEV & DEPLOY
-
-`Git` `GitHub` `Docker` `Render` `Railway` `Vercel` `VS Code`
+Tech stack:
+Python • LLMs • LangChain • Vision Models • React • FastAPI
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+## Featured Projects
 
-## 🚀 PROJECTS THAT DEFINE ME
+### Healthcare AI Assistant
 
-### 🐟🔥 TUUNA – AI AGENT (FLAGSHIP PROJECT)
+Full-stack healthcare platform with:
 
-> **TUUNA is not a chatbot. It’s an AI Agent.**
-
-Capabilities:
-
-* 🎙️ Voice → AI → Voice conversations
-* 🖼️ Image understanding + reasoning
-* 🧠 Context-aware multi-turn memory
-* 🛠️ Tool usage & automation
-* 🌐 Modern chat UI (real assistant feel)
-
-**Tech:** LLMs • LangChain • Python • Voice APIs • Vision Models • Web UI
-🔗 *Repo coming soon*
-
----
-
-### 🏥 Healthcare AI Assistant
-
-A production-style healthcare system with:
-
-* Symptom analysis (ML)
+* Symptom analysis models
+* Conversational AI interface
 * Emergency detection logic
-* Voice-enabled AI doctor
-* User dashboard & health history
-* Medicine recommendation + warnings
+* User health dashboard and history
+* Medicine recommendation engine
 
-**Tech:** React • Node.js • MongoDB • LangChain • Python
-
----
-
-### 🔐 GovSecAI – Government Security AI (Final Year Project)
-
-Large-scale system for:
-
-* AI surveillance analytics
-* Threat & anomaly detection
-* LLM-based document intelligence
-* Secure cloud & role-based access
+Tech:
+React • Node.js • MongoDB • LangChain • Python
 
 ---
 
-### 🤖 Multi-Modal Product Builder AI
+### GovSecAI — Government Security AI
 
-Upload product image → AI generates:
+Final year system focused on intelligent monitoring and AI-driven analysis.
 
-* Title & description
-* Amazon-style bullets
-* SEO keywords
-* Fake reviews
-* Tech specs & marketing banners
+Includes:
 
----
-
-### 📊 Data Science & ML Systems
-
-Heart Disease Prediction • Face Recognition • Spam Detection • Air Quality ML
+* Surveillance analytics
+* Threat detection workflows
+* Document intelligence using LLMs
+* Secure architecture design
 
 ---
 
-<!-- ===================== CURRENT MODE ===================== -->
+### Multi-Modal Product Builder AI
 
-## 🔥 CURRENT MODE
+Upload a product image and generate structured product data including:
+Title • Description • SEO Keywords • Marketing content • Technical specifications
 
-* 🧠 Advanced **AI Agents (Auto + Semi-Auto)**
-* 🎙️ Voice-first AI systems
-* 🌐 Full Stack AI deployment (CI/CD)
-* 📊 Real-time ML dashboards
-
----
-
-<!-- ===================== STATS ===================== -->
-
-## 📊 GITHUB STATS (PROOF OF WORK)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashuu213&show_icons=true&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashuu213&hide_border=true"/>
-</p>
+Tech:
+Vision Transformer • LLMs • FastAPI • React
 
 ---
 
-<!-- ===================== END ===================== -->
+### Data Science & Machine Learning
 
-## 🧠 FINAL THOUGHT
+Heart Disease Prediction
+Face Recognition System
+Spam Email Classification
+Air Quality Prediction Model
 
-> I don’t build AI for fun.
-> I build AI that **works, scales, and scares people a little.** 😈🤖
+---
+
+## Tech Stack
+
+**AI / Machine Learning**
+Python • PyTorch • TensorFlow • Scikit-Learn • OpenCV • NLP • LangChain • HuggingFace
+
+**Full Stack**
+React.js • Node.js • MongoDB • FastAPI • REST APIs
+
+**Frontend**
+HTML • CSS • JavaScript • Tailwind CSS
+
+**Tools & Platforms**
+Git • Docker • Render • Railway • Vercel • VS Code
+
+---
+
+## Connect
+
+Email: [yashsharma.td@gmail.com](mailto:yashsharma.td@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/yash-sharma-2ab129273/](https://www.linkedin.com/in/yash-sharma-2ab129273/)
+Portfolio: [https://profile-pink-ten.vercel.app](https://profile-pink-ten.vercel.app)
